@@ -12,8 +12,8 @@
         "Delay Bet(ms)": "0"
     },
     "Target": {
-        "Profit (amt)": "0",
-        "Profit (%)": "30000",
+        "Profit (amt)": "40000",
+        "Profit (%)": "0",
         "Balance": "0",
         "Lose": "0"
     },
