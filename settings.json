@@ -1,7 +1,7 @@
 {
     "License": "contact @safarsyam",
     "Account": {
-        "Username": "surya",
+        "Username": "mentari",
         "Password": "Maudi@123"
     },
     "Play Game": {
@@ -13,7 +13,7 @@
     },
     "Target": {
         "Profit (amt)": "0",
-        "Profit (%)": "0",
+        "Profit (%)": "30000",
         "Balance": "0",
         "Lose": "0"
     },
