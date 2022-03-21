@@ -1,7 +1,7 @@
 {
     "License": "contact @safarsyam",
     "Account": {
-        "Username": "mentari",
+        "Username": "matahari04",
         "Password": "Maudi@123"
     },
     "Play Game": {
@@ -12,9 +12,9 @@
         "Delay Bet(ms)": "0"
     },
     "Target": {
-        "Profit (amt)": "40000",
+        "Profit (amt)": "0",
         "Profit (%)": "0",
-        "Balance": "0",
+        "Balance": "140000",
         "Lose": "0"
     },
     "Stopwin": {
